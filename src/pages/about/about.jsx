@@ -6,7 +6,6 @@ export default function about() {
     <div className='flex justify-center'>
       <span>
         <img src={img} alt='bong'/>
-        
       </span>
     </div>
   )
